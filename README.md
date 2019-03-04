@@ -1,6 +1,7 @@
 # Benchmark Redis Sentinel pub-sub
 
 ### Setup
+
 $ go get github.com/go-redis/redis
 $ go get gopkg.in/cheggaaa/pb.v1
 
